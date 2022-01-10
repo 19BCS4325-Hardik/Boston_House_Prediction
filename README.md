@@ -1,3 +1,5 @@
 # Boston_House_Prediction
 This is a project in which we did a prediction of houses located in Boston.
-![10 01 2022_21 41 36_REC](https://user-images.githubusercontent.com/54958082/148799349-52b71636-9545-452a-ad42-4b4fcf91e807.png)
+Screenshot:- 
+
+![10 01 2022_21 41 17_REC](https://user-images.githubusercontent.com/54958082/148799506-5004b368-5cbf-4c4d-b9a2-8ca7d8e218d0.png)
